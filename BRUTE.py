@@ -8,7 +8,6 @@ textFile = ""
 host = ""
 password = ""
 user = ""
-#did a program to open a file and split at the lines in one of klump's classes last semester...check there first
 #to generate 3 letter passwords you put a nested for loop inside...2 nested plus the original gives you the 3 letter
 def tryLogIn(user,host,password,passwordList):
 	#construct the login ctring
